@@ -6,10 +6,9 @@ import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-import java.util.ArrayList;
 
 
-public class testMassAttack {
+public class TestMassAttack {
     Basket basket1;
 
     @BeforeEach
